@@ -39,6 +39,7 @@
   var-background-color--input: hsla(0, 100%, 100%, 1);
 
   var-border--cta: 1px solid hsla(207, 74%, 29%, 1);
+  var-background-color-light--cta: hsla(207, 74%, 52%, 42.5);
   var-background-color--cta--down: hsla(206, 74%, 45%, 1);
   var-background-color--cta--hover: hsla(206, 74%, 60%, 1);
   var-box-shadow--cta: inset 0 1px hsla(0, 100%, 100%, 0.36);
