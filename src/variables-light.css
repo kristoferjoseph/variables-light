@@ -50,7 +50,7 @@
   var-box-shadow--focus: 0 0 0 2px hsla(208, 82%, 69%, 1);
   var-border--invalid: 1px solid var(notification-color);
 
-  var-notification-bg-color: var(notification-color);
+ var-bg-color--notification: var(notification-color);
 
   var-menu-stack-icon: url("../img/hamburger_dark.svg");
 
